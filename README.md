@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ibraheem M. Shawhnee</h1>
 <h3 align="center">A Frontend developer from Palestine, Jenin</h3>
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibraheemshawhnee&label=Profile%20views&color=0e75b6&style=flat" alt="ibraheemshawhnee" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=ibraheemshawhnee&label=Profile%20views&color=0e75b6&style=flat" alt="ibraheemshawhnee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibraheemshawhnee" alt="ibraheemshawhnee" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibraheemshawhnee" alt="ibraheemshawhnee" /></a> </p>
 
 - 🔭 I’m currently training in Gaza Sky Geeks **Frontend with React**
 
