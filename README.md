@@ -47,6 +47,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibraheemshawhnee&show_icons=true&locale=en" alt="ibraheemshawhnee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibraheemshawhnee&" alt="ibraheemshawhnee" /></p>
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.2.1
+
 
