@@ -2,7 +2,7 @@
 <h3 align="center">A Frontend developer from Palestine, Jenin</h3>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-- 🔭 I’m currently ReactJS Mentor at Gaza Sky Geeks.
+- 🔭 I'm currently train at **ITG** in the field of Frontend
 
 - 🌱 I’m currently learning **ReactJS**
 
