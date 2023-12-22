@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibraheem M. Shawhnee</h1>
 <img src="banner.png"/>
 <h3 align="center">A Frontend developer from Palestine, Jenin</h3>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 - 🔭 I'm currently train at **ITG** in the field of Frontend
 
@@ -21,9 +20,7 @@
 
 - ⚡ Fun fact **The best FIFA player**
 
-<p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
