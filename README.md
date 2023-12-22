@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibraheem M. Shawhnee</h1>
+<img src="banner.png"/>
 <h3 align="center">A Frontend developer from Palestine, Jenin</h3>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
