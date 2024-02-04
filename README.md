@@ -2,9 +2,9 @@
 <img src="banner.png"/>
 <h3 align="center">A Frontend developer from Palestine, Jenin</h3>
 
-- 🔭 I'm currently train at **ITG** in the field of Frontend
+- 🔭 I'm currently work at **ZTechnologies** as React Native Developer
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate with **Data Scientists, Machine Learning Engineers, and Content creators, and developers**
 
